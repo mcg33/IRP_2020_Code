@@ -7,3 +7,4 @@ Just write normally to get a paragraph.
 Not like HTML where you need <p> tages everywhere.
 Line breaks are two spaces at the end of text.  
 See Line break!
+Double astricks makes test **bold**
