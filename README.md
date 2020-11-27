@@ -30,4 +30,9 @@ The main module for clustering is Kallisto-Bustools. This is a module for Python
 * Clustering analysis of the human embryonic glutamatergic neuron dataset:
   * **Clustering_Human_LaManno.ipynb**
 * Clustering analysis of the mouse pancreatic dataset:
-  * **Clustering_Mouse_Pancreas**
+  * **Clustering_Mouse_Pancreas.ipynb**  
+* Velocity analysis of the mouse pancreatic dataset:
+  * **RNAvelo_Mouse_Velocity.ipynb**  
+* Velocity analysis of the human embryonic glutamatergic neuron dataset (Error):
+  * **Velocity_Human_scVelo_error.ipynb** - The code crashing with "Keyerror: X-Umap"
+  * **https://colab.research.google.com/github/pachterlab/kallistobustools/blob/master/notebooks/kb_velocity.ipynb** - Google Collab session
