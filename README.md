@@ -27,13 +27,13 @@ Installing the relevant module required to run the Google Collab session is part
 ## Uploaded files
 * Clustering analysis of human and mouse retinal datasets:
   * [Clustering_Human_Retina.ipynb](https://github.com/mcg33/IRP_2020_Code/blob/main/Clustering_Human_Retina.ipynb)
-  * **Clustering_Mouse_Retina.ipynb**
+  * [Clustering_Mouse_Retina.ipynb](https://github.com/mcg33/IRP_2020_Code/blob/main/Clustering_Mouse_Retina.ipynb)
 * Clustering analysis of the human embryonic glutamatergic neuron dataset:
-  * **Clustering_Human_LaManno.ipynb**
+  * [Clustering_Human_LaManno.ipynb](https://github.com/mcg33/IRP_2020_Code/blob/main/Clustering_Human_LaManno.ipynb)
 * Clustering analysis of the mouse pancreatic dataset:
-  * **Clustering_Mouse_Pancreas.ipynb**  
+  * [Clustering_Mouse_Pancreas.ipynb](https://github.com/mcg33/IRP_2020_Code/blob/main/Clustering_Mouse_Pancreas.ipynb)  
 * Velocity analysis of the mouse pancreatic dataset:
-  * **RNAvelo_Mouse_Velocity.ipynb**  
+  * [RNAvelo_Mouse_Velocity.ipynb](https://github.com/mcg33/IRP_2020_Code/blob/main/RNAvelo_Mouse_Velocity.ipynb) 
 * Velocity analysis of the human embryonic glutamatergic neuron dataset (Error):
-  * **Velocity_Human_scVelo_error.ipynb** - The code crashing with "Keyerror: X-Umap"
-  * **https://colab.research.google.com/github/pachterlab/kallistobustools/blob/master/notebooks/kb_velocity.ipynb** - Code is based off this Google Collab session
+  * [Velocity_Human_scVelo_error.ipynb](https://github.com/mcg33/IRP_2020_Code/blob/main/Velocity_Human_scVelo_error.ipynb) - The code crashing with "Keyerror: X-Umap"
+  * [RNA Velocity analysis using Google Collab](https://colab.research.google.com/github/pachterlab/kallistobustools/blob/master/notebooks/kb_velocity.ipynb) - Code is based off this Google Collab session
