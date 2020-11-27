@@ -36,4 +36,4 @@ Installing the relevant module required to run the Google Collab session is part
   * **RNAvelo_Mouse_Velocity.ipynb**  
 * Velocity analysis of the human embryonic glutamatergic neuron dataset (Error):
   * **Velocity_Human_scVelo_error.ipynb** - The code crashing with "Keyerror: X-Umap"
-  * **https://colab.research.google.com/github/pachterlab/kallistobustools/blob/master/notebooks/kb_velocity.ipynb** - Google Collab session
+  * **https://colab.research.google.com/github/pachterlab/kallistobustools/blob/master/notebooks/kb_velocity.ipynb** - Code is based off this Google Collab session
