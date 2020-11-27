@@ -26,7 +26,7 @@ Installing the relevant module required to run the Google Collab session is part
 * louvain  
 ## Uploaded files
 * Clustering analysis of human and mouse retinal datasets:
-  * **Clustering_Human_Retina.ipynb**
+  * [Clustering_Human_Retina.ipynb](https://github.com/mcg33/IRP_2020_Code/blob/main/Clustering_Human_Retina.ipynb)
   * **Clustering_Mouse_Retina.ipynb**
 * Clustering analysis of the human embryonic glutamatergic neuron dataset:
   * **Clustering_Human_LaManno.ipynb**
