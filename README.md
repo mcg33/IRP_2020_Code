@@ -11,19 +11,9 @@ The primary module used for clustering is Kallisto-Bustools. This is a module fo
 * scipy
 * leidenalg
 * scanpy  
-### Velocity analysis with scVelo
-* Kallisto-Bustools
-* scVelo  
-### Velocity analysis with Google Collab  
-Installing the relevant module required to run the Google Collab session is part of the set-up within the session.
-* Kallisto-Bustools
-* scanpy
-* loompy
-* scVelo
-* anndata
-* velocyto
-* python-igraph
-* louvain  
+### Kallisto-Bustools notebook on Google Collab 
+Below is a link to the Google collab notebook using Kallisto-Bustools for clustering that all clustering code is based off:
+* [mouse_lung.ipynb](https://colab.research.google.com/github/pachterlab/BBB/blob/master/notebooks/lung_atlas/mouse_lung_dropseq_SRR8426358_python.ipynb)
 ## Uploaded files
 * Clustering analysis of human and mouse retinal datasets:
   * [Clustering_Human_Retina.ipynb](https://github.com/mcg33/IRP_2020_Code/blob/main/Clustering_Human_Retina.ipynb)
