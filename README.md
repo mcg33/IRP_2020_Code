@@ -12,7 +12,7 @@ The primary module used for clustering is Kallisto-Bustools. This is a module fo
 * leidenalg
 * scanpy  
 ### Kallisto-Bustools notebook on Google Collab 
-Below is a link to the Google collab notebook using Kallisto-Bustools for clustering that all clustering code is based off:
+Below is a link to the Google collab notebook using Kallisto-Bustools for clustering that all code is based off:
 * [mouse_lung.ipynb](https://colab.research.google.com/github/pachterlab/BBB/blob/master/notebooks/lung_atlas/mouse_lung_dropseq_SRR8426358_python.ipynb)
 ## Uploaded files
 * Clustering analysis of human and mouse retinal datasets:
